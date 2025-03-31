@@ -1,2 +1,2 @@
-# Threat-Hunter
+# Threat_Hunter
 Mini project
